@@ -1,4 +1,4 @@
-# MAD-EXP-8-Develop-an-Android-Application-to-Display-the-Images-using-Gallery-Control
+# EXP-8-Develop-an-Android-Application-to-Display-the-Images-using-Gallery-Control
 
 ## AIM:
 
@@ -155,10 +155,8 @@ public class CustomizedGalleryAdapter extends BaseAdapter {
 }
 ```
 ## OUTPUT
-
-![image](https://github.com/Siddarthan999/MAD-EXP-8-Develop-an-Android-Application-to-Display-the-Images-using-Gallery-Control/assets/91734840/31910ea8-3186-4fb4-8aab-d245ad2fecff)
-![image](https://github.com/Siddarthan999/MAD-EXP-8-Develop-an-Android-Application-to-Display-the-Images-using-Gallery-Control/assets/91734840/dda1b1f9-968c-4ae4-af4e-bc830b9213a3)
-![image](https://github.com/Siddarthan999/MAD-EXP-8-Develop-an-Android-Application-to-Display-the-Images-using-Gallery-Control/assets/91734840/ec9b4462-4ada-4ad6-8cc4-56d7762f4b88)
-
+![image](https://github.com/rahulramakrishnann/EXPERIMENT-8-mad/assets/143045415/14fe9227-58a4-4c23-8099-11f8b0e5b8fd)
+![image](https://github.com/rahulramakrishnann/EXPERIMENT-8-mad/assets/143045415/b2174293-6864-4a3e-a149-593f80c838cb)
+![image](https://github.com/rahulramakrishnann/EXPERIMENT-8-mad/assets/143045415/e9987a56-864f-456f-b6d7-b702d6096f13)
 ## RESULT
 Thus, a Simple Android Application to create a gallery control using android studio to display images or photos is developed and executed successfully.
